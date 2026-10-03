@@ -1,5 +1,4 @@
 # Customer Segmentation Dashboard
-# Customer Segmentation Dashboard
 
 A beginner-friendly machine learning project that groups telecom customers  into segments based on how they use their phone, and shows the results in an interactive dashboard.
 
